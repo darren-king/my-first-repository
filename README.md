@@ -11,4 +11,4 @@ So far I've learned how to
 	2. Github's pull requests
 5. Creating README files
 
-[I learned all this from Code Institute!] (http://codeinstitute.net)
+[I learned all this from Code Institute!](http://codeinstitute.net)
